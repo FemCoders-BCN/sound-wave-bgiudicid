@@ -9,7 +9,8 @@
         font-weight: 300;
         margin-left: 1.3rem;
         margin-top: 2rem; 
-        inline-size: 14rem;  
+        inline-size: 14rem;
+        margin-bottom: 0.1rem;  
     }
     
     h3 {
@@ -17,6 +18,7 @@
         font-weight: 300;
         inline-size: 18rem;
         overflow-wrap: break-word;
+        margin-top: 0.1rem
     }
     
     .join-now {
@@ -24,7 +26,7 @@
         border-radius: 0.4rem;
         text-decoration: none;
         color: white;
-        background-color: #1762A7;
+        background-color: #2b3079;
         margin-left: 1.3rem;
     }
 
@@ -35,7 +37,7 @@
         opacity: 1;
         width: 5.5rem;
         height: 5.5rem;
-        background-color: #5f46dd1a;
+        background-color: #422caf1a;
         margin-left: 6rem;
        
     }
@@ -47,26 +49,24 @@
         opacity: 1;
         width: 5.5rem;
         height: 5.5rem;
-        background-color: rgb(78, 38, 44);
+        background-color: rgb(74, 39, 85);
         float: inline-start;
         background-position: top;
         margin-top: 1rem;
         margin-left: 0.8rem;
-        
-     
     }
 
     .circle3 {
         z-index: 1;
         position: relative;
         opacity: 1;
-        width: 10rem;
-        height: 10rem;
-        background-color: yellow;
+        width: 9rem;
+        height: 9rem;
+        background-color: #422caf1a;
         clip-path: circle(50% at  bottom right);
         float: right;
-        margin-top: 0.1rem;
         margin-left: 1rem;
+        margin-top: 0px;
     }
 
 }

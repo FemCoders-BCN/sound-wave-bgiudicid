@@ -9,13 +9,14 @@
         font-weight: 300;
         margin-left: 1.3rem;
         margin-top: 8rem; 
-        inline-size: 8rem;  
+        inline-size: 14rem;  
     }
     
     h3 {
         margin-left: 1.3rem;
         font-weight: 300;
-        inline-size: 8rem;
+        inline-size: 18rem;
+        overflow-wrap: break-word;
     }
     
     .join-now {
